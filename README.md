@@ -14,7 +14,7 @@ Data Integration: [NEO Earth Close Approaches Data Table](https://cneos.jpl.nasa
 ## To-Do
 Read through entire CNEO website <br>
 Extract NEO metadata from CNEOS website (downloading is not available for data-sets > 20000 rows, must use SBDB API) <br>
-Read through these sources for classification algorithm: [https://methods-x.com/article/S2215-0161(23)00334-5/fulltext],[https://ieeexplore.ieee.org/document/10112391] 
+Read through these sources for classification algorithm: [https://cneos.jpl.nasa.gov/sentry/torino_scale.html], [https://methods-x.com/article/S2215-0161(23)00334-5/fulltext],[https://ieeexplore.ieee.org/document/10112391] 
 
 
 
