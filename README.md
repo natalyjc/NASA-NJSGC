@@ -19,6 +19,8 @@ Extract NEO metadata from CNEOS website (downloading is not available for data-s
 
 ### Week of 6/23 - 6/29
 - [ ] advisor meeting (6/26)
+- [ ] collect data and perform pre processing
+- [ ] work on report
 ### Week of 6/30 - 7/6
 - [ ] advisor meeting (7/1)
 - [ ] have a completed large dataset to split into training, validation, and test sets
