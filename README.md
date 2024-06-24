@@ -38,13 +38,12 @@ Extract NEO metadata from CNEOS website (downloading is not available for data-s
 ### Week of 7/21 - 7/27
 - [ ] advisor meeting (7/24)
 - [ ] collect and obtain results from model
-- [ ]  work on report
-- [ ]  work on presentation and slides
+- [ ] work on poster
+- [ ] work on report
+- [ ] work on presentation and slides
 ### Week of 7/28 - 8/3
 - [ ] advisor meeting (7/29)
+- [ ] have finished poster
 - [ ] work on finishing up report
 - [ ] work on finishing up presentation and slides
-### Week of 8/4 - 8/10
-- [ ] advisor meeting (8/6)
-- [ ] finish report
-- [ ] finish presentation and slides
+- [ ] poster session (8/2)
