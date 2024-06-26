@@ -3,11 +3,11 @@
 ## Plan
 Title: Predicting Near-Earth Object Impact Risk Using Machine Learning and 3D Trajectory Data 
 
-Objective: Develop a machine learning model to predict the potential impact risk of near-Earth objects based on their 3D trajectories and associated metadata
+Objective: Develop a machine learning model to predict the potential impact risk of near-Earth objects based on their metadata
 
 Optional: Capturing images from Close-Approach Viewer as additional input data. Can also be used to validate model's predictions visually 
 
-Classification Method: Classify objects into risk levels (low, medium, high). Low risk are small objects passing at a significant distance. Medium risk are medium-size objects passing relatively close (must find a threshold number). High Risk are large objects with close approaches or potential collision courses. 
+Regression Model: What was previously a classification problem, because none of the objects are greater than 0 on the Torino Scale (a scale used to categorize impact hazard of NEOs), a better approach is to predict the Impact Probability.
 
 Data Integration: [NEO Earth Close Approaches Data Table](https://cneos.jpl.nasa.gov/ca/), [SBDB Close-Approach Data API](https://ssd-api.jpl.nasa.gov/doc/cad.html), [Horizons API](https://ssd-api.jpl.nasa.gov/doc/horizons.html#command), [Asteroids NeoWs](https://api.nasa.gov/?search=horizons#browseAPI)
 
