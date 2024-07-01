@@ -10,7 +10,7 @@ Binary Classification Model: Extracting is_potentially_hazardous_asteroid from A
 Data Integration: [NEO Earth Close Approaches Data Table](https://cneos.jpl.nasa.gov/ca/), [SBDB Close-Approach Data API](https://ssd-api.jpl.nasa.gov/doc/cad.html), [Horizons API](https://ssd-api.jpl.nasa.gov/doc/horizons.html#command), [Asteroids NeoWs](https://api.nasa.gov/?search=horizons#browseAPI)
 
 ## To-Do
-Read through these sources for classification algorithm: (https://cneos.jpl.nasa.gov/sentry/torino_scale.html), (https://methods-x.com/article/S2215-0161(23)00334-5/fulltext),(https://ieeexplore.ieee.org/document/10112391) 
+Read through these sources for classification algorithm: [Machine learning techniques for classifying dangerous asteroids](https://methods-x.com/article/S2215-0161(23)00334-5/fulltext), [Classification and Comparative Analysis of Earth's Nearest Objects using Machine Learning Models](https://ieeexplore.ieee.org/document/10112391) 
 Write a python script to iterate through ~15k entries to obtain certain features and label, taking into account the 2000 request limit from NASA API
 
 ### Week of 6/23 - 6/29
