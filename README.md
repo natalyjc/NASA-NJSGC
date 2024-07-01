@@ -1,26 +1,21 @@
 # NASA-NJSGC
 
 ## Plan
-Title: Predicting Near-Earth Object Impact Risk Using Machine Learning and 3D Trajectory Data 
+Title: Predicting Near-Earth Object Potential Hazardous Using Machine Learning and 3D Trajectory Data 
 
-Objective: Develop a machine learning model to predict the potential impact risk of near-Earth objects based on their metadata
+Objective: Develop a machine learning model to predict if near-Earth objects are potentially hazardous based on their metadata
 
-Optional: Capturing images from Close-Approach Viewer as additional input data. Can also be used to validate model's predictions visually 
-
-Regression Model: What was previously a classification problem, because none of the objects are greater than 0 on the Torino Scale (a scale used to categorize impact hazard of NEOs), a better approach is to predict the Impact Probability.
+Binary Classification Model: Extracting is_potentially_hazardous_asteroid from Asteroids - NeoWs API as target variable. Combining metadata from SBDB Close Approach API and NASA API
 
 Data Integration: [NEO Earth Close Approaches Data Table](https://cneos.jpl.nasa.gov/ca/), [SBDB Close-Approach Data API](https://ssd-api.jpl.nasa.gov/doc/cad.html), [Horizons API](https://ssd-api.jpl.nasa.gov/doc/horizons.html#command), [Asteroids NeoWs](https://api.nasa.gov/?search=horizons#browseAPI)
 
 ## To-Do
-Read through entire CNEO website <br>
-Extract NEO metadata from CNEOS website (downloading is not available for data-sets > 20000 rows, must use SBDB API) <br>
 Read through these sources for classification algorithm: [https://cneos.jpl.nasa.gov/sentry/torino_scale.html], [https://methods-x.com/article/S2215-0161(23)00334-5/fulltext],[https://ieeexplore.ieee.org/document/10112391] 
-
-
+Write a python script to iterate through ~15k entries to obtain certain features and label, taking into account the 2000 request limit from NASA API
 
 ### Week of 6/23 - 6/29
-- [ ] advisor meeting (6/26)
-- [ ] collect data and perform pre processing
+- [X] advisor meeting (6/26)
+- [X] collect data and perform pre processing
 - [ ] work on report
 ### Week of 6/30 - 7/6
 - [ ] advisor meeting (7/1)
