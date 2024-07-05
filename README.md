@@ -11,15 +11,15 @@ Data Integration: [NEO Earth Close Approaches Data Table](https://cneos.jpl.nasa
 
 ## To-Do
 Read through these sources for classification algorithm: [Machine learning techniques for classifying dangerous asteroids](https://methods-x.com/article/S2215-0161(23)00334-5/fulltext), [Classification and Comparative Analysis of Earth's Nearest Objects using Machine Learning Models](https://ieeexplore.ieee.org/document/10112391) 
-Write a python script to iterate through ~15k entries to obtain certain features and label, taking into account the 2000 request limit from NASA API
+Use large dataset of 31 columns and 15,355 near-earth objects ranging from Jan 1, 2004 to June 1, 2024 to predict potentially hazardous objects 
 
 ### Week of 6/23 - 6/29
 - [X] advisor meeting (6/26)
 - [X] collect data and perform pre processing
 - [ ] work on report
 ### Week of 6/30 - 7/6
-- [ ] advisor meeting (7/1)
-- [ ] have a completed large dataset to split into training, validation, and test sets
+- [X] advisor meeting (7/1)
+- [X] have a completed large dataset to split into training, validation, and test sets
 - [ ] work on report
 ### Week of 7/7 - 7/13
 - [ ] advisor meeting (7/11)
