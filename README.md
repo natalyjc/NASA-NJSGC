@@ -10,8 +10,9 @@ Binary Classification Model: Extracting is_potentially_hazardous_asteroid from A
 Data Integration: [NEO Earth Close Approaches Data Table](https://cneos.jpl.nasa.gov/ca/), [SBDB Close-Approach Data API](https://ssd-api.jpl.nasa.gov/doc/cad.html), [Horizons API](https://ssd-api.jpl.nasa.gov/doc/horizons.html#command), [Asteroids NeoWs](https://api.nasa.gov/?search=horizons#browseAPI)
 
 ## To-Do
-Read through these sources for classification algorithm: [Machine learning techniques for classifying dangerous asteroids](https://methods-x.com/article/S2215-0161(23)00334-5/fulltext), [Classification and Comparative Analysis of Earth's Nearest Objects using Machine Learning Models](https://ieeexplore.ieee.org/document/10112391) 
-Use large dataset of 31 columns and 15,355 near-earth objects ranging from Jan 1, 2004 to June 1, 2024 to predict potentially hazardous objects 
+Read through these sources for classification algorithm: [Machine learning techniques for classifying dangerous asteroids](https://methods-x.com/article/S2215-0161(23)00334-5/fulltext), [Classification and Comparative Analysis of Earth's Nearest Objects using Machine Learning Models](https://ieeexplore.ieee.org/document/10112391) <br>
+Use large dataset of 31 columns and 15,355 near-earth objects ranging from Jan 1, 2004 to June 1, 2024 to predict potentially hazardous objects <br>
+Consider renaming columns, and writing in report full name and small definitions
 
 ### Week of 6/23 - 6/29
 - [X] advisor meeting (6/26)
