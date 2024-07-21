@@ -32,7 +32,7 @@ Work on making changes to report and poster, consider adding more unique graphs 
 - [X] work on writing report
 ### Week of 7/21 - 7/27
 - [ ] advisor meeting (7/24)
-- [] collect and obtain results from model
+- [X] collect and obtain results from model
 - [ ] work on poster
 - [ ] work on report
 - [ ] work on presentation and slides
