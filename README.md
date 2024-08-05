@@ -11,5 +11,5 @@ Objective: Develop a machine learning model to predict if near-Earth objects are
 
 Binary Classification Model: Extracting is_potentially_hazardous_asteroid from Asteroids - NeoWs API as target variable. Combining metadata from SBDB Close Approach API and NASA's Open API for NEOs
 
-Data Integration: [NEO Earth Close Approaches Data Table](https://cneos.jpl.nasa.gov/ca/), [SBDB Close-Approach Data API](https://ssd-api.jpl.nasa.gov/doc/cad.html), [Horizons API](https://ssd-api.jpl.nasa.gov/doc/horizons.html#command), [Asteroids NeoWs](https://api.nasa.gov/?search=horizons#browseAPI)
+Data Integration: [NEO Earth Close Approaches Data Table](https://cneos.jpl.nasa.gov/ca/), [SBDB Close-Approach Data API](https://ssd-api.jpl.nasa.gov/doc/cad.html), [Asteroids NeoWs](https://api.nasa.gov/?search=horizons#browseAPI)
 
