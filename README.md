@@ -3,7 +3,7 @@
 ![NJSGC Poster](https://github.com/user-attachments/assets/69d57861-1439-4989-84ac-a8827fbebda8)
 
 ## Summary
-This repository includes two Python notebooks containing code on the data extraction process and the data preprocessing and modeling phases, a final report summarizing findings and a poster presentation (above) that was presented at the end of the internship. Additionally, the dataset includes Earth close approach data and orbital data of NEOs, excluding any entries with missing values.
+This repository includes two Python notebooks containing code on the data extraction process and the data preprocessing and modeling phases, a final report summarizing findings, and a poster presentation (above) that was presented at the end of the internship. Additionally, the dataset includes Earth close approach data and orbital data of NEOs, excluding any entries with missing values. This research aligns with [NASA's Space Technology Mission Directorate](https://www.nasa.gov/space-technology-mission-directorate/).
 
 Title: Predicting Hazardous Near-Earth Objects With Random-Forest and Class Imbalance Techniques
 
